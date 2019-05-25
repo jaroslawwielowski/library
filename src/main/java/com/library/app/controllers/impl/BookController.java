@@ -1,4 +1,4 @@
-package com.library.app.controllers;
+package com.library.app.controllers.impl;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
