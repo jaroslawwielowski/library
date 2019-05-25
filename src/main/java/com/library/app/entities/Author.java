@@ -1,5 +1,5 @@
 package com.library.app.entities;
 
-public class Authors {
+public class Author {
 
 }
