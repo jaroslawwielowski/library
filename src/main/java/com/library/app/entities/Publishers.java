@@ -1,5 +1,5 @@
 package com.library.app.entities;
 
-public class Publisher {
+public class Publishers {
 
 }
